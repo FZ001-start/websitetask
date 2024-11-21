@@ -1,0 +1,3 @@
+$ git push origin main main
+error: dst ref refs/heads/main receives from more than one src
+error: failed to push some refs to 'github.com:FZ001-start/websitetask.git'
